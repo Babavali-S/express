@@ -96,7 +96,7 @@ $ express /tmp/foo && cd /tmp/foo
 
 ```console
 $ npm install
-```
+```jjjj
 
   Start the server:
 
